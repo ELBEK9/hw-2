@@ -13,7 +13,8 @@ int main() {
     }
     
     int x,y;
-    cin>>x>>y;
+    cin>>x;
+    cin>>y;
     
     int min_dist=n;
     int prev_index=-1;
